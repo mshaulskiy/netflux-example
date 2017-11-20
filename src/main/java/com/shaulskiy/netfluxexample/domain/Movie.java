@@ -9,6 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Data
 @NoArgsConstructor
 //@AllArgsConstructor
+//@RequiredArgsConstructor
 public class Movie {
 
     private String id;
